@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm David! 👋
 
-<!--
-**daavidcruuz/daavidcruuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI Engineer** at **IBM Client Engineering**. I specialize in bridging the gap between complex machine learning algorithms and real-world business value. My work focuses on designing and deploying scalable AI solutions that turn technical obstacles into strategic opportunities.
 
-Here are some ideas to get you started:
+### 🛠 Keahlian Utama:
+- **Generative AI & NLP:** Membangun aplikasi cerdas menggunakan watsonx.ai dan model bahasa besar.
+- **Machine Learning Engineering:** Desain, pengembangan, hingga deployment model yang siap pakai untuk industri.
+- **Data Visualization:** Mengubah data kompleks menjadi wawasan visual yang mendukung keputusan bisnis.
+- **Client-Centric Solutions:** Berpengalaman memimpin proses lintas fungsi untuk mendukung kebutuhan spesifik klien.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Fokus Saat Ini:
+- Mengoptimalkan workflow perusahaan menggunakan **Prompt Lab di watsonx.ai**.
+- Implementasi model NLP untuk analisis sentimen dan ekstraksi informasi skala besar.
+
+---
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/daavidcruuz/)
+- [Website](https://www.ibm.com/client-engineering)
+
+*"Creating opportunities out of obstacles 🚀"*
